@@ -1,9 +1,12 @@
 /* Add styling for your page here */
 
 .App {
+  text-align: center;
 
-}
-
-.BakeryItem {
-  
+  .container {
+    max-width: 500px;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+  }
 }
